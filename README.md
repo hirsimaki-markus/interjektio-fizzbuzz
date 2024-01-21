@@ -1,7 +1,7 @@
 # Pestipäivät 2024 fizzbuzz challenge for Interjektio
 
 Notes:
-* 77 bytes !!! (solution_7.py)
+* 77 bytes (solution_7.py)
 * I decided to focus on a minimal solution instead of recovering original code -> tester modified to skip Python2
 * I decided against cracking the original source based on the given MD5 hashes and set information
 * Tested on Python 3.10.12 in WSL
