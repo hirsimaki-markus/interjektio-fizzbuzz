@@ -1,0 +1,1 @@
+print(*map(lambda a:"Fizz"*(a%3<1)+"Buzz"*(a%5<1)or a,range(1,101)),sep='\n')
